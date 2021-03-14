@@ -602,3 +602,4 @@ using ctest, enabling the memcheck mode.
 ## License
 
 This project is licensed under the MIT License.
+Add eneble changes to activate travis test.
